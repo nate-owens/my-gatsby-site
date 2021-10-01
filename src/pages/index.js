@@ -8,7 +8,7 @@ const IndexPage = () => {
   return (
     <Layout pageTitle="Home Page">
       <p>
-        I'm making this by following the 
+        I'm making this by following the {" "}
         <a href="https://www.gatsbyjs.com/docs/tutorial/" title="_blank">
           Gatsby Tutorial
         </a>.
